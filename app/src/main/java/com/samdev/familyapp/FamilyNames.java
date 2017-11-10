@@ -52,6 +52,7 @@ public class FamilyNames extends AppCompatActivity {
             public void onClick(View view) {
                 Intent fourthNameActivity = new Intent(FamilyNames.this, Fourth_Name.class);
                 startActivity(fourthNameActivity);
+                //thefrd
             }
         });
 
